@@ -1,5 +1,5 @@
 # Geocaching small game
-(empty project)
+Sortie du 17/05
 
 ## How to create a new game
 
